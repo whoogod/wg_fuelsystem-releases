@@ -1,1 +1,14 @@
-{"version": "1.0"}
+{
+  "version": "1.0.1",
+  "changelog": "Private pumps for job vehicles (PD cars, heli pads), station owner exports, an easier admin panel",
+  "url": "https://github.com/whoogod/wg_fuelsystem-releases/releases/tag/v1.0.1",
+  "notes": [
+    "Private pumps: a pump for one job's vehicles, free or on the job's fuel card, no station needed",
+    "Private pumps: choose the pump type and brand live, add as many as you want, stand straight on any ground",
+    "Private pumps: screen shows the brand and POLICE ONLY with no prices; can blow up and fix themselves",
+    "Exports: SetStationOwner(stationId, citizenid) and GetStationOwner(stationId), server only",
+    "Admin panel: any station setting within 3 presses, every change says what changed, settings search",
+    "Fixes: job names in any case, a public pump beside a private one stays public, free pumps key in litres",
+    "Update: replace the folder, keep your configs, replace locales/en.json, restart"
+  ]
+}
